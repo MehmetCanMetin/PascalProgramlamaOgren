@@ -16,3 +16,5 @@ Uygulama Geliştirme: Katılımcılar, basit konsol uygulamaları geliştirerek 
 Eğitim sonunda katılımcılar,
 temel programlama bilgisine sahip olacak, uygulamalı projelerle yaratıcı düşünme becerilerini 
 geliştirecek ve basit konsol uygulamaları yaratma yeteneği kazanacaklardır. Bu sayede, programlama dünyasında sağlam bir adım atmış olacaklar.
+
+Örnek Yol Haritası : https://roadmap.sh/ai/pascal-programming-and-algorithms
