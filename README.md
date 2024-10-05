@@ -1,5 +1,5 @@
 # PascalProgramlamaOgren
-Eğitim Tanıtımı
+
 Bu eğitim, yeni başlayanlara Lazarus IDE ile Pascal programlama dilini eğlenceli ve etkili bir şekilde tanıtmayı amaçlıyor. 
 Katılımcılar, ilk olarak Pascal’ın tarihçesi, avantajları ve dezavantajları hakkında bilgi edinecekler.
 Eğitim süresince temel programlama kavramları, veri türleri, değişkenler ve operatörler gibi konulara derinlemesine bir bakış sunulacak.
