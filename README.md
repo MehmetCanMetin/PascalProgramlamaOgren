@@ -6,28 +6,28 @@ Eğitim süresince temel programlama kavramları, veri türleri, değişkenler v
 
 Kurs akışında aşağıdaki konular işlenecektir:
 
-Pascal’a Giriş:
+- Pascal’a Giriş:
 Pascal dilinin temelleri ve genel özellikleri.
 
-Geliştirme Ortamı Kurulumu: 
+- Geliştirme Ortamı Kurulumu: 
 Lazarus IDE’nin kurulumu ve temel ayarları.
 
-Temel Programlama Kavramları:
+- Temel Programlama Kavramları:
 Değişkenler, veri tipleri ve operatörler.
 
-Kontrol Yapıları: 
+- Kontrol Yapıları: 
 Koşul ifadeleri ve döngüler ile akış kontrolü.
 
-Fonksiyonlar ve Prosedürler:
+- Fonksiyonlar ve Prosedürler:
 Fonksiyon ve prosedür tanımlama ve kullanma.
 
-Dizi ve Kayıtlar: 
+- Dizi ve Kayıtlar: 
 Veri yapıları ile veri yönetimi.
 
-Hata Ayıklama:
+- Hata Ayıklama:
 Program hatalarını bulma ve düzeltme yöntemleri.
 
-Uygulama Geliştirme: 
+- Uygulama Geliştirme: 
 Katılımcılar, basit konsol uygulamaları geliştirerek öğrendiklerini pekiştirecekler.
 
 Eğitim sonunda katılımcılar,
